@@ -25,6 +25,7 @@ Using multivariate analysis, there are two very clear and striking observations
 ### Supervised machine learning
 
 Lastly, I perfomed supervised machine learning to investigate what the main factors that affect the MPG of the car. 
-Using different methods, I determined Random Forests had the best accuracy, precision, recall and F1 score (>0.96). The top features are shown in the plot below. 
+Using 4 different regression methods, I determined Random Forest Regressor had the best MSE and R2 score. 
+The top features are shown in the plot below. 
 
 <img src="Images/features.png" width=400>
