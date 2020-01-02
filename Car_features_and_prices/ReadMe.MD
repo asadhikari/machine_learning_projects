@@ -12,7 +12,6 @@ the following
 Using multivariate analysis, there are two very clear and striking observations 
 1. If we compare MSRP vs HP, we see an increasing trend. But what is more interesting is that when plotted on a log-log plot, we clearly see two groups of cars. Labeling the year and the number of cylinders, we see
   - The grouping is based on the years, one group is mostly newer cars, and the other is older cars
-  - Horsepower is correlated to number of cylinders, with the exception being electric cars. 
 
 <img src="Images/msrp_hp.png" width=400>
 
