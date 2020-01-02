@@ -17,7 +17,6 @@ Using multivariate analysis, there are two very clear and striking observations
 
 2. A comparision of HP vs MPG definitely shows an expected negative correlation. However, once we label the time, we see 
   - The newer cars have higher HP and higher MPG. 
-  - There is no relationship between number of cylinders and time. This suggests a role of forced induction (turbo and super charging) in new cars to increase power without increasing number of cylinders. 
   
   <img src="Images/MPG.png" width=400>
 
